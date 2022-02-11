@@ -216,4 +216,5 @@ GitHub.sublime-settings
 # and uncomment the following lines
 # .pnp.*
 
-# End of https://www.toptal.com/developers/gitignore/api/nextjs,node,yarn,sublimetext,visualstudiocode
+### ? ###
+Thumbs.db
